@@ -16,8 +16,3 @@ Utilizei o Chat GPT para gerar ideias de capítulos, conteúdo e estrutura e o L
 O e-book apresenta um conteúdo bem básico sobre Inteligencia Artificial direcionado para crianças com imagens bem fofas e que despertam o interesse pelo tema.
 
 [Descobrindo a Inteligência Artificial Uma Aventura para Crianças!.pdf](https://github.com/user-attachments/files/17007482/Descobrindo.a.Inteligencia.Artificial.Uma.Aventura.para.Criancas.pdf)
-
-
-https://github.com/LilianeBalles/lab-natty-or-not/blob/main/Descobrindo%20a%20Intelig%C3%AAncia%20Artificial%20Uma%20Aventura%20para%20Crian%C3%A7as!.pdf
-
-
